@@ -1,7 +1,3 @@
-# Homograph-attack 
-
-
-
 # Astra - HomographAttack
 
 
@@ -11,7 +7,7 @@ The internationalized domain name (IDN) homograph attack is a way a malicious pa
 
 # REQUIREMENT
 1. Install python
-2. clone this repo
+2. clone this rbURL
 3. run with command
 
 ```bash
