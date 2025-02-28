@@ -3,7 +3,7 @@
 
 <h2><b>REMEMBER , THIS IS FOR EDUCATIONAL PURPOSES ONLY !</b></h2><br>
 
-The internationalized domain name (IDN) homograph attack is a way a malicious party may deceive computer users about what remote system they are communicating with, by exploiting the fact that many different characters look alike .
+Demonstration and explanation of IDN homograph attacks — a technique where attackers use lookalike characters to trick users into visiting fake websites.
 
 # REQUIREMENT
 1. Install python
