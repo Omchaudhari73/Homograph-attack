@@ -3,7 +3,7 @@
 
 <h2><b>REMEMBER , THIS IS FOR EDUCATIONAL PURPOSES ONLY !</b></h2><br>
 
-Demonstration and explanation of IDN homograph attacks — a technique where attackers use lookalike characters to trick users into visiting fake websites.
+ IDN homograph attacks — a technique where attackers use lookalike characters to trick users into visiting fake websites.
 
 # REQUIREMENT
 1. Install python
